@@ -10,4 +10,5 @@ while number < 10:
     square = number ** 2
     print(square)
     number += 1
+    print('hongkong')
     
